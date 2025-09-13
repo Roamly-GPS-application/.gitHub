@@ -21,7 +21,7 @@ The application was deployed on a **DigitalOcean cloud-hosted Kubernetes cluster
 Purple components = already developed   
 Blue components = planned for future development 
 
-![Roamly-GPS C2 Diagram](.docs/C4_Diagram_Roamly-Level-2-current.png)
+![Roamly-GPS C2 Diagram](./docs/C4_Diagram_Roamly-Level2.png)
 
 
 ### 🔎 Diagram explanation
