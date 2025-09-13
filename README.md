@@ -6,9 +6,9 @@ Welcome to **Roamly-GPS**, a website project where you can connect with fellow t
 
 ## ✨ How does it work?
 
-You create your own personal profile to access the platform's main map allowing you to see your current location, search for different countries you want to visit with the ability to see different points of interest (e.g. restaurants, museums, parks) and get navigated to them.  
+You start by creating a personal profile, which gives you access to the platform’s main map. From there, you can view your current location, explore different countries you’d like to visit, discover points of interest (e.g. restaurants, museums, parks), and get directions to them.
 
-Additionally, you can either join or create your own travel group where you can invite friends or complete strangers and organize your trip together using the live-chat feature.
+You can also join existing travel groups or create your own, inviting friends or even new connections, and plan your trip together using the built-in live chat feature.
 
 ---
 
@@ -21,7 +21,7 @@ The application was deployed on a **DigitalOcean cloud-hosted Kubernetes cluster
 Purple components = already developed   
 Blue components = planned for future development 
 
-![Roamly-GPS C2 Diagram](.docs/C4_Diagram_Roamly-Level%202-current.png)
+![Roamly-GPS C2 Diagram](.docs/C4_Diagram_Roamly-Level-2-current.png)
 
 
 ### 🔎 Diagram explanation
